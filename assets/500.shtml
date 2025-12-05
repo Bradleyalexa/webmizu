@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Penyedia water purifier, solar water heater, dan water heater dengan kualitas terbaik. Hidup sehat berawal dari air yang bersih dan higienis.">
+    <meta name="keywords" content="water purifier, penyaring air, water heater, pemanas air, solar water heater, pompa, tangki air, yamaha, mizu firuta, toclas, 3M, nanotech, solahart, sunhot, ariston, yutaka, mizuchi, hitachi, air, filter, purifier, water, pabrik, rumah, apartemen, restoran, cafe, laundry, isi air, air minum, pabrik">
+
+    <!-- Open Graph Tag -->
+    <meta property="og:title" content="Mizu Firuta - Filter Air Kualitas Terbaik">
+    <meta property="og:description" content="Penyedia water purifier, solar water heater, dan water heater dengan kualitas terbaik.">
+    <meta property="og:image" content="https://www.mizufiruta.com/assets/img/apple-touch-icon.png">
+    <meta property="og:url" content="https://www.mizufiruta.com/">
+    <meta name="twitter:card" content="summary_large_image">
+    <title>Mizu Firuta - Filter Air Kualitas Terbaik</title>
+
+    <!-- Styles -->
+    <link href="assets/css/page.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+    <link rel="icon" href="assets/img/favicon.png">
+  </head>
+
+  <body class="layout-centered bg-gray">
+
+
+    <!-- Main Content -->
+    <main class="main-content text-center pb-lg-8">
+      <div class="container">
+
+        <h1 class="display-1 text-muted mb-7">Server Internal Bermasalah</h1>
+        <p class="lead">Silahkan coba beberapa saat lagi.</p>
+        <br>
+        <button class="btn btn-secondary w-150 mr-2" type="button" onclick="window.history.back();">Kembali</button>
+        <a class="btn btn-secondary w-150" href="index.html">Beranda</a>
+
+      </div>
+    </main><!-- /.main-content -->
+
+
+    <!-- Scripts -->
+    <script src="assets/js/page.min.js"></script>
+    <script src="assets/js/script.js"></script>
+
+  </body>
+</html>

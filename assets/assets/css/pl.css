@@ -1,0 +1,10 @@
+.col-10.col-md-4.mx-auto.align-items-center.py-8 {
+    display: flex;
+    justify-content: center; /* Menyusun gambar di tengah secara horizontal */
+    gap: 10px; /* Menambahkan jarak antar gambar */
+}
+
+.col-10.col-md-4.mx-auto.align-items-center.py-8 img {
+    max-width: 100%; /* Menjaga gambar agar tidak melebihi ukuran div */
+    height: auto; /* Menjaga proporsi gambar */
+}

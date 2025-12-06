@@ -17,6 +17,23 @@
     <!-- Styles -->
     <link href="assets/css/page.min.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
+    
+    <!-- Responsive Map Styles -->
+    <style>
+      .map-container {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9 aspect ratio */
+        height: 0;
+        overflow: hidden;
+      }
+      .map-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+    </style>
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
@@ -91,8 +108,9 @@
         <div class="row no-gutters">
 
           <div class="col-md-6">
-            <iframe src="https://www.google.com/maps/embed?pb=!4v1765031226237!6m8!1m7!1sTbJQX06596naIYyfbQPWtg!2m2!1d-6.147699878610803!2d106.7441059661119!3f13.005065982134141!4f-8.748494267736376!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</iframe>
+            <div class="map-container">
+              <iframe src="https://www.google.com/maps/embed?pb=!4v1765031226237!6m8!1m7!1sTbJQX06596naIYyfbQPWtg!2m2!1d-6.147699878610803!2d106.7441059661119!3f13.005065982134141!4f-8.748494267736376!5f0.7820865974627469" style="border:0; width: 100%; height: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
 
           </div>
 
